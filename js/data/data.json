@@ -1,0 +1,1302 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SSD Verbatim Vi3000 256GB PCIe NVMe Gen 3",
+      "price": 990000,
+      "description": "Verbatim Vi3000 256GB PCIe NVMe Gen 3 SSD hard drive is a solid-state hard drive with compact size, good performance, and affordable price. It is a great choice for students, home users, and small businesses (not for servers).",
+      "promotion": 30,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-1_f4b276d272e44ba6ac1958d8704217f1_1024x1024.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-1_f4b276d272e44ba6ac1958d8704217f1_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-2_1c81298429694c168e95f35b3a2c0497_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-3_aa540dcc2bae4971addd94c801d6dc15_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-4_f6d4a3a9d4844ed087a30b56aa8c106d_1024x1024.png"
+      ],
+      "quantitySold": 472,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Verbatim",
+        "type": "SSD",
+        "length": 3.15,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "NVMe Gen 3",
+        "capacity": "256 GB",
+        "reliability": "100 TBW",
+        "designs": "M.2",
+        "readingSpeed": "3100Mb/s",
+        "writeSpeed": "1300Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Van Bao",
+          "star": 4,
+          "comment": "Good products, very worthy",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SSD Verbatim Vi550 256GB Sata3",
+      "price": 690000,
+      "description": "Verbatim Vi550 256GB Sata3 SSD Hard Drive is designed with performance suitable for simple office tasks, so it is the choice for an office PC or basic home computer system, with low cost and need. If the operation is moderately stable, this is an option for you that Gearvn provides.",
+      "promotion": 37,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-1_7ef1024514df4f3484b56186726535d2_1024x1024.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-1_7ef1024514df4f3484b56186726535d2_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-2_f1a4477bce5e4545bdd357795b99fd17_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-3_9766f734dd384f52883079e24b64d5b5_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-4_ac0cc9811eac41dab987c1a9132eeacb_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-5_d67f0de9a3d3423088e7b25cefbaf880_1024x1024.png"
+      ],
+      "quantitySold": 150,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Verbatim",
+        "type": "SSD",
+        "length": 3.96,
+        "width": 2.75,
+        "height": 0.28,
+        "connectionProtocol": "NVMe Gen 3",
+        "capacity": "256 GB",
+        "reliability": "100 TBW",
+        "designs": "2.5",
+        "readingSpeed": "520Mb/s",
+        "writeSpeed": "460Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Van Bao",
+          "star": 4,
+          "comment": "Good products, very worthy",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "SSD Corsair MP600 CORE XT 1TB PCIe 4.0 Gen4 (CSSD-F1000GBMP600CXT)",
+      "price": 2990000,
+      "description": "",
+      "color": [
+        { "name": "Oak", "style": "#bb9b7a" },
+        { "name": "White", "style": "#fff" },
+        { "name": "Black", "style": "#000" }
+      ],
+      "promotion": 50,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/mp600_core_xt_21_b185c78c017944cfa72685e3898fc03e_1024x1024.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/mp600_core_xt_01_bfa9f99745024299af6c0262b32584f3_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/mp600_core_xt_01_bfa9f99745024299af6c0262b32584f3_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/mp600_core_xt_22_0cacc777a1d642f1a886752632b28eb8_1024x1024.png",
+        "https://product.hstatic.net/200000722513/product/mp600_core_xt_03_b53367cf470a4e32ad1fa379e97b0c22_1024x1024.png"
+        
+      ],
+      "quantitySold": 100,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Corsair",
+        "length": 1.296,
+        "width": 2.75,
+        "height": 0.08,
+        "connectionProtocol": "PCIe Gen 4.0 x4",
+        "capacity": "1 TB",
+        "reliability": "250 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "5,000MB/s",
+        "writeSpeed": "3,500MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Van Bao",
+          "star": 4,
+          "comment": "Good products, very worthy",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SSD PNY CS900 256GB Sata3",
+      "price": 590000,
+      "description": "With outstanding quality and high performance. PNY SSD is an optimal choice when you want to upgrade your hard drive. Very fast with sequential read and write speeds of up to 535Mb/s and 500Mb/s. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "color": [
+        { "name": "Oak", "style": "#bb9b7a" },
+        { "name": "White", "style": "#fff" },
+        { "name": "Black", "style": "#000" }
+      ],
+      "promotion": 50,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/thegioigear_7b0016a1f1ac4d95a53de7e4b39dd791_1024x1024.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/thegioigear_7b0016a1f1ac4d95a53de7e4b39dd791_1024x1024.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "PNY",
+        "type": "SSD",
+        "length": 3.937,
+        "width": 2.752,
+        "height": 0.276,
+        "connectionProtocol": "SATA 3 - 2.5",
+        "capacity": "256 GB",
+        "reliability": "100 TBW",
+        "designs": "2.5",
+        "readingSpeed": "535Mb/s",
+        "writeSpeed": "500Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Van Bao",
+          "star": 4,
+          "comment": "Good products, very worthy",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "HDD WD 4TB Blue",
+      "price": 2890000,
+      "description": "Enhance your PC's storage capabilities with Western Blue drives, a brand perfectly designed for PCs with office and web applications.",
+      "promotion": 24,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/wd_4tb_gearvn_5861f3c5c49a448c9db270261802aaa9_b78dea8a87144ee988231f44758138a3_1024x1024.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/wd_4tb_gearvn_5861f3c5c49a448c9db270261802aaa9_b78dea8a87144ee988231f44758138a3_1024x1024.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "Sata III",
+        "capacity": "4 TB",
+        "reliability": "100 TBW",
+        "designs": "2.5",
+        "readingSpeed": "100 MB/s",
+        "writeSpeed": "100 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Van Bao",
+          "star": 4,
+          "comment": "Good products, very worthy",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "HDD WD Blue 2TB 7200rpm",
+      "price": 2890000,
+      "description": "Enhance your PC's storage capabilities with Western Blue drives, a brand perfectly designed for PCs with office and web applications.",
+      "promotion": 30,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/gearvn-hdd-wd-blue-2tb-7200rpm-1_fa7b6220ded04738a7fca1ff18185232_25ae485065a74e5f9b86cdf04470409a_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/gearvn-hdd-wd-blue-2tb-7200rpm-1_fa7b6220ded04738a7fca1ff18185232_25ae485065a74e5f9b86cdf04470409a_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "2 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "215Mb",
+        "writeSpeed": "215Mb",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "HDD WD 1TB Red Plus 5400rpm",
+      "price": 1490000,
+      "description": "Enhance your PC's storage capabilities with Western Blue drives, a brand perfectly designed for PCs with office and web applications.",
+      "promotion": 20,
+      "imageThumb": "https://philong.com.vn/media/product/31116-philong81.jpg",
+      "listImage": [
+        "https://philong.com.vn/media/product/31116-philong81.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "1 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "215Mb",
+        "writeSpeed": "215Mb",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "HDD WD 1TB Blue 2.5 for Laptop",
+      "price": 1690000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 35,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/dabd2447c4beadce7f643eb15c65_wd10spzx_7153f685fc7f4937b4e83da7606c34d9_b7b1dbac942840f3b91cfcae6510404a_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/dabd2447c4beadce7f643eb15c65_wd10spzx_7153f685fc7f4937b4e83da7606c34d9_b7b1dbac942840f3b91cfcae6510404a_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "2 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "215Mb",
+        "writeSpeed": "215Mb",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "HDD WD 4TB Black",
+      "price": 5200000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 45,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/hdd_wd_4tb_black_76bdbe4426c140219c2f7d378fa4fe87_6a7c2d0179ce4508a4f7808bed9f2f9c_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/hdd_wd_4tb_black_76bdbe4426c140219c2f7d378fa4fe87_6a7c2d0179ce4508a4f7808bed9f2f9c_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "4 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "100Mb/s",
+        "writeSpeed": "100Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "HDD WD 6TB Blue 5400rpm",
+      "price": 4890000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 31,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/hdd_wd_6tb_blue_e6b3dbf9878c480592a79af09c3f0c57_69b20c6af9784f4d9a52fd21b3aaa471_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/hdd_wd_6tb_blue_e6b3dbf9878c480592a79af09c3f0c57_69b20c6af9784f4d9a52fd21b3aaa471_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/hdd_wd_blue_1t_92581f557caf4698b34ff03a1db56c70_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "6 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "100Mb/s",
+        "writeSpeed": "100Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "HDD WD 2TB Black",
+      "price": 3500000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 25,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/hdd_wd_2tb_black_376ecdc3d4ab4616a27cdb28c92b9025_2e0c583d482e441982b77d7c3ba76bc2_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/hdd_wd_2tb_black_376ecdc3d4ab4616a27cdb28c92b9025_2e0c583d482e441982b77d7c3ba76bc2_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/149_wd_black_2tb_wd2003fzex_6164a2dcf4694e99a8ddb37802d2cdcb_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "2 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "100Mb/s",
+        "writeSpeed": "100Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "HDD WD 1TB Blue",
+      "price": 3500000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 28,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/hdd_wd_1tb_blue_49be34c078ab458fabd383b7efb3af02_1b8b4292c27b4f3483664b5777dd2a5d_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/hdd_wd_1tb_blue_49be34c078ab458fabd383b7efb3af02_1b8b4292c27b4f3483664b5777dd2a5d_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/9d8bfae9dc8a4472bd42a15e347cfe79_4ac5132668814b84ab72d5ebe4ae57c1_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/142822762766_e800fd552f794808b2d0596a7101c441_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "1 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "100Mb/s",
+        "writeSpeed": "100Mb/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "HDD Seagate Barracuda 2TB",
+      "price": 1690000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 5,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/hdd_seagate_baracuda_2tb_gearvn00_28582504c8d24597908c3a73effefa7a_e147c85ec46148acbdc7c7f8a729b68c_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/hdd_seagate_baracuda_2tb_gearvn00_28582504c8d24597908c3a73effefa7a_e147c85ec46148acbdc7c7f8a729b68c_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/hdd_seagate_baracuda_2tb_gearvn01_6aa320bb6c2d4c109061a4c901227ff6_d4ee92d57fb847d3b7681f385749dd52_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/hdd_seagate_baracuda_2tb_gearvn_5e41cbde50614750a7234158e17d77c0_c898f3a4db914e20b52e1e3d93c7bd9a_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Seagate",
+        "type": "HDD",
+        "length": 4,
+        "width": 5.79,
+        "height": 1,
+        "connectionProtocol": "SATA3 - 3.5",
+        "capacity": "2 TB",
+        "reliability": "100 TBW",
+        "designs": "3.5",
+        "readingSpeed": "210MB/s",
+        "writeSpeed": "210MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "SSD SamSung 980 500GB M.2 PCIe NVMe",
+      "price": 1690000,
+      "description": "With outstanding quality and high performance. WD HDD is an optimal choice when you want to upgrade your hard drive. High capacity and read and write speed 5 times faster than conventional hard drives. Now every operation on your computer happens as quickly and smoothly as possible. Increases overall computer performance greatly.",
+      "promotion": 5,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/980_e3b98832cb274a118ce04a4ecf47de1b_0067e063e3ef4cb3b3bd3c3127e52d34_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/980_e3b98832cb274a118ce04a4ecf47de1b_0067e063e3ef4cb3b3bd3c3127e52d34_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/980_2_869758d559b04b079543b12eebdeb229_8588edf4ef034c6f9c7984979039606a_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Samsung",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIE Gen 3.0 x4, NVMe",
+        "capacity": "500 GB",
+        "reliability": "300 TBW",
+        "designs": "M.2 (2280)",
+        "readingSpeed": "3,100 MB/s",
+        "writeSpeed": "2,600 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "SSD SamSung 980 1TB M.2 PCIe NVMe",
+      "price": 2690000,
+      "description": "With outstanding quality and high performance. Intel M.2 NVMe SSD is an optimal choice when you want to upgrade your hard drive. Very fast with sequential read and write speeds of up to 3500Mb",
+      "promotion": 15,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/980_2_3f606b38d3c242cd85482bc98100d734_f496319b6a944227b0ab727b42419b43_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/980_2_3f606b38d3c242cd85482bc98100d734_f496319b6a944227b0ab727b42419b43_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/980_5bc974fb75d740709278094ec1f2dd65_b9e23a7714484cc69acf80764ac2fb59_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/a-ssd-samsung-980-m-2-pcie-nvme-1tb_2_088377cff6ec4f9484cc75f793439889_91baa0f79a0a41ddb6a075f980585261_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/a-ssd-samsung-980-m-2-pcie-nvme-1tb_3_468b874fe48f4c6b965ea85dede71e84_e015e49bdcb04ea09c1fbbdfbaf459bc_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/cua-ssd-samsung-980-m-2-pcie-nvme-1tb_ae4a888ace3e458e8e41e8ef1ac6ee7a_0c4c335bc48541fca7699efdce5604be_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Samsung",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIE Gen 3.0 x4, NVMe",
+        "capacity": "500 GB",
+        "reliability": "300 TBW",
+        "designs": "M.2 (2280)",
+        "readingSpeed": "3,100 MB/s",
+        "writeSpeed": "2,600 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SSD Samsung 870 EVO 1TB Sata3",
+      "price": 2990000,
+      "description": "Samsung 870 EVO 2.5' SATA III SSD is considered one of the extremely optimal storage system expansion solutions for capacity for your computer. This will be one of the 1TB SSD hard drives you should own at a very reasonable price.",
+      "promotion": 30,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/870_evo_1_8c7f126580d248968c3fd6852c64861e_23741adcd5f44d6ebc43e8eed41b5b8b_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/870_evo_1_8c7f126580d248968c3fd6852c64861e_23741adcd5f44d6ebc43e8eed41b5b8b_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/870_evo_2_82353ec61b314d52a2b8f1dbdef73c44_e076c6388c624f0c94e7d8260ce7f0e5_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Samsung",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "Sata III 6Gbit/s",
+        "capacity": "1 TB",
+        "reliability": "600 TBW",
+        "designs": "MZ-77E1T0BW",
+        "readingSpeed": "560 MB/s",
+        "writeSpeed": "560 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "SSD SamSung 980 Pro 1TB M.2 NVMe",
+      "price": 3790000,
+      "description": "SamSung 980 PRO 1TB M.2 NVMe MZ-V8P1T0BW SSD provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 72,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/ng-980-pro-1tb-m-2-nvme-mz-v8p1t0bw-2_9ac665238f084b2998dfe67a7f5258ac_b2cc2896923b44a3b2484bf189770380_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/ng-980-pro-1tb-m-2-nvme-mz-v8p1t0bw-2_9ac665238f084b2998dfe67a7f5258ac_b2cc2896923b44a3b2484bf189770380_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/ng-980-pro-1tb-m-2-nvme-mz-v8p1t0bw-3_9d69027868ef4a6385866bdadfc8c118_f30d3bd8dc474a9793890e907f29a7a5_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/sung-980-pro-1tb-m-2-nvme-mz-v8p1t0bw_568d5228269f461dad38859ba6b25f49_cc6e17132cac422eb57c2b2396e7fbc3_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/ng-980-pro-1tb-m-2-nvme-mz-v8p1t0bw-4_c4ff261dd6374342857f7516ca984e65_aead263e46a047cb99989f3ca4a65117_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Samsung",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "1 TB",
+        "reliability": "600 TBW",
+        "designs": "MZ-77E1T0BW",
+        "readingSpeed": "7000 MB/s",
+        "writeSpeed": "5000 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "SSD Samsung 980 PRO 2TB M.2 PCIe Gen4 NVMe (MZ-V8P2T0BW)",
+      "price": 3790000,
+      "description": "SamSung 980 PRO 2TB M.2 NVMe MZ-V8P1T0BW SSD provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 65,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/msung-980-pro-2tb-m2-pcie-gen4-nvme-8_1b353b01bcbe4ee0bfbfd19089c2fd44_7bb471d71943411587d845d28091b5f6_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/msung-980-pro-2tb-m2-pcie-gen4-nvme-8_1b353b01bcbe4ee0bfbfd19089c2fd44_7bb471d71943411587d845d28091b5f6_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/msung-980-pro-2tb-m2-pcie-gen4-nvme-0_98368253d6a74d1f9e2407555ffaf2de_89eedeaf2fbb4618b3731f269ea0cb33_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Samsung",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "2 TB",
+        "reliability": "600 TBW",
+        "designs": "MZ-77E1T0BW",
+        "readingSpeed": "7000 MB/s",
+        "writeSpeed": "5000 MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "SSD WD Blue SN580 1TB M.2 NVMe PCIe Gen4 (WDS100T3B0E)",
+      "price": 2790000,
+      "description": "SSD WD Blue SN580 1TB M.2 NVMe PCIe Gen4 provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 60,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_dc7afa833968484dae8491462dd7e535_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_dc7afa833968484dae8491462dd7e535_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "1 TB",
+        "reliability": "600 TBW",
+        "designs": "MZ-77E1T0BW",
+        "readingSpeed": "4150MB/s",
+        "writeSpeed": "4150MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "SSD WD Blue SN580 500GB M.2 NVMe PCIe Gen 4 (WDS500G3B0E)",
+      "price": 1790000,
+      "description": "SSD WD Blue SN580 500GB M.2 NVMe PCIe Gen 4 provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 20,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_d5ea5db2013245f0bfea6ec5dc117dc5_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_d5ea5db2013245f0bfea6ec5dc117dc5_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "500 GB",
+        "reliability": "600 TBW",
+        "designs": "MZ-77E1T0BW",
+        "readingSpeed": "4000MB/s",
+        "writeSpeed": "3600MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "SSD WD Black SN850x 2TB M.2 PCIe NVMe Gen 4.0",
+      "price": 4990000,
+      "description": "SSD WD Blue SN580 500GB M.2 NVMe PCIe Gen 4 provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 30,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/o-cung-ssd-wd-black-sn850x-1tb-m2-pcie-4.0-wds100t2x0e-hinh-6_9fcfa09c0e494107ba661b3a975555e9_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/o-cung-ssd-wd-black-sn850x-1tb-m2-pcie-4.0-wds100t2x0e-hinh-6_9fcfa09c0e494107ba661b3a975555e9_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "2 TB",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "7300MB/s",
+        "writeSpeed": "6600MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "SSD WD Blue SN570 250GB M.2 NVMe PCIe Gen3 (WDS250G3B0C)",
+      "price": 1990000,
+      "description": "SSD WD Blue SN580 500GB M.2 NVMe PCIe Gen 4 provides data reading speed up to 7000MB/s. At the same time, there will be up to 3 model versions for users to easily choose from. This shows that Samsung is ready to enter the market of manufacturing hard drive storage devices using PCIe 4.0 connection very seriously.",
+      "promotion": 40,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/wd_blue_sn570_250gb_ww_adobe_front_hr_f744c65a15044372942307877fbf464a_5c4abd5d032745daaeb5b84bd4d7f17f_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/wd_blue_sn570_250gb_ww_adobe_front_hr_f744c65a15044372942307877fbf464a_5c4abd5d032745daaeb5b84bd4d7f17f_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/wdc-wdblue-sn570_prod-img-hero-250g_7b6bc6aebdf549da8246106a680835f7_4e754bb9e26345cc9547d66900df1a08_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/e-sn570_prod-img-straight-front-250gb_518068049acf41c0ae63a1cc1e30d129_ddd5b01a38d645bf803d47d79524f456_grande.jpg"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Western Digital",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "PCIe Gen4.0 x4, NVMe1.3c",
+        "capacity": "250 GB",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "24 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Ngo Gia Bao",
+          "star": 4,
+          "comment": "The best choice trong tầm giá",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Ram Corsair Vengeance RGB 32GB (2x16GB) 5200 DDR5 White (CMH32GX5M2B5200C40W)",
+      "price": 3290000,
+      "description": "First, Ram Corsair Vengeance RGB 32GB (2x16GB) 5200 DDR5 White has an impressive scan frequency of up to 5200HZ to help operations that require high resources still take place smoothly and quickly, with up to 32Gb of memory to help you Operate your PC comfortably with multiple tasks at the same time without slowing down.",
+      "promotion": 5,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/gearvn-ram-corsair-vengeance-rgb-32gb-5200-ddr5-white-1_d8e4f3a4b00943d3a9db1a7c2f140f62_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/gearvn-ram-corsair-vengeance-rgb-32gb-5200-ddr5-white-1_d8e4f3a4b00943d3a9db1a7c2f140f62_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-ram-corsair-vengeance-rgb-32gb-5200-ddr5-white-2_967c8bcded03447083c3862e8c94e5b1_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-ram-corsair-vengeance-rgb-32gb-5200-ddr5-white-3_f561bed9c208438fa02ee36ab6393601_grande.png"
+      ],
+      "quantitySold": 40,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Corsair",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "VENGEANCE RGB DDR5",
+        "capacity": "32GB (2 x 16Gb)",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Ram Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5 (CMH32GX5M2B5600C40K)",
+      "price": 3990000,
+      "description": "First, Ram Corsair Vengeance RGB 32GB (2x16GB) 5200 DDR5 White has an impressive scan frequency of up to 5200HZ to help operations that require high resources still take place smoothly and quickly, with up to 32Gb of memory to help you Operate your PC comfortably with multiple tasks at the same time without slowing down.",
+      "promotion": 10,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-5_6e319950a8e14231b28a416076c94951_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-5_6e319950a8e14231b28a416076c94951_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-1_0e571601b6f34326805ddc6969837940_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-2_7c998aa6a1514ee08569b82b05c99e53_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-3_7cfccb481f1d4a45abd28678a9c654b2_grande.png",
+        "https://product.hstatic.net/200000722513/product/gearvn-corsair-vengeance-rgb-ddr-5600-ddr5-4_3a57a8c561dc4c2d87e8edbc1c154ef2_grande.png"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Corsair",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "VENGEANCE RGB DDR5",
+        "capacity": "32GB (2 x 16Gb)",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ram Corsair Dominator Platinum 16GB (2x8GB) RGB 3200 White (CMT16GX4M2C3200C16W)",
+      "price": 3790000,
+      "description": "First, Ram Corsair Vengeance RGB 32GB (2x16GB) 5200 DDR5 White has an impressive scan frequency of up to 5200HZ to help operations that require high resources still take place smoothly and quickly, with up to 32Gb of memory to help you Operate your PC comfortably with multiple tasks at the same time without slowing down.",
+      "promotion": 37,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-2_de089f0593aa4b429c6da5e07e53b9f3_c5132186088045dcb50903c233d4b3c7_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-2_de089f0593aa4b429c6da5e07e53b9f3_c5132186088045dcb50903c233d4b3c7_grande.png",
+        "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-1_ad8ce4513c9d4425afb929da1cf0c710_05cafa1240f841f09baf007574cd0e93_grande.png",
+        "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-6_1cbecfc993314c3bb617e64abdfe30ff_fc8879277c7541928df36ae458f62329_grande.png",
+        "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-7_fecfa72ce1e24dac95f2f375996f5d07_c9f60bbc003f4daf8182be508509189c_grande.png",
+        "https://product.hstatic.net/200000722513/product/orsair-dominator-platinum-rgb-white-3_cb3c988a7a214aca9b5e33313d15d2a2_57aa399bd6604193bb3406d1eda7705a_grande.png"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Corsair",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "VENGEANCE RGB DDR5",
+        "capacity": "16GB (2 x 8Gb)",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Ram Corsair Dominator Platinum 16GB (2x8GB) RGB 3200 White (CMT16GX4M2C3200C16W)",
+      "price": 3190000,
+      "description": "First, Ram Corsair Vengeance RGB 32GB (2x16GB) 5200 DDR5 White has an impressive scan frequency of up to 5200HZ to help operations that require high resources still take place smoothly and quickly, with up to 32Gb of memory to help you Operate your PC comfortably with multiple tasks at the same time without slowing down.",
+      "promotion": 16,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/00-ram-corsair-vengeance-pro-rs-rgb-1_4aef1fc5ea8044c0b376e34ac5c30464_e0b758fda9424b64927f3ff2e9171747_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/00-ram-corsair-vengeance-pro-rs-rgb-1_4aef1fc5ea8044c0b376e34ac5c30464_e0b758fda9424b64927f3ff2e9171747_grande.png",
+        "https://product.hstatic.net/200000722513/product/00-ram-corsair-vengeance-pro-rs-rgb-2_9b6d389e1dcb4f568e388c3b8037e1e8_6552268e6bb84c48bcbb90d4cb437cae_grande.png",
+        "https://product.hstatic.net/200000722513/product/00-ram-corsair-vengeance-pro-rs-rgb-3_71b114b761b749d6a3e5521d9430aef7_3cd91f94efa04bc7a7afa9ba4865e112_grande.png"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Corsair",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "VENGEANCE RGB DDR5",
+        "capacity": "16GB (2 x 8Gb)",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    }
+  ]
+}
