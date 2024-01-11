@@ -1,17 +1,12 @@
-[SMART STORE]
+[OCEAN GATE]
 =======================================
-+ Supervisor		: LÊ THANH NHÂN
++ Supervisor		: LÊ MỘNG THÚY
 + Semester		: I	
-+ Batch No		: T1.2110.A0
-+ Group No:		: 1
++ Batch No		: T1.2309.M1
++ Group No:		: 6
 + List Of Member:
-    + Nguyễn Văn Bảo (Student1341596)
-    + Trần Tiến (Student1341528)
-    + Phan Thanh Phương (Student1341583)
-    + Trần Minh Khôi (Student1344666)
+    + Trần Lê Thiên Phúc (Student1344659)
 =======================================
-Documentations : https://github.com/nvbsource/SmartStore_Group01/tree/nvbsource%40gmail.com/Documentations
-=======================================
-Published website : https://nvbsourcerce.github.io/SmartStore_Group01/
+Documentations : 
 =======================================
 Thank you for visit our website.
