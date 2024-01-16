@@ -326,16 +326,7 @@ body {
   width: 100%;
   border-radius: 5px;
 }
-.detail__product__center__top {
-  border: 1px solid #d70019;
-  color: #d70019;
-  padding: 10px;
-  border-radius: 5px;
-}
-.detail__product__center__top {
-  background-color: #fef2f2;
-  width: 90px;
-}
+
 .detail__product__center {
   margin: 10px 20px;
   padding: 10px;

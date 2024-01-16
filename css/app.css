@@ -38,7 +38,7 @@ body.white {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../images/logo/background-tet.png");
+  
 }
 .lds-ripple {
   position: relative;
@@ -254,53 +254,8 @@ body.white {
   background-repeat: no-repeat;
 }
 
-.falling-item:nth-of-type(1) {
-  left: 10%;
-  -webkit-animation-delay: 6s, 0.5s;
-  animation-delay: 6s, 0.5s;
-  font-size: 2.5em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/pink_1-min.png");
-}
 
-.falling-item:nth-of-type(2) {
-  left: 20%;
-  -webkit-animation-delay: 5s, 5.5s;
-  animation-delay: 5s, 5.5s;
-  font-size: 1.9em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/yellow_2-min.png");
-}
 
-.falling-item:nth-of-type(3) {
-  left: 40%;
-  -webkit-animation-delay: 4s, 2s;
-  animation-delay: 4s, 2s;
-  font-size: 2.4em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/pink_3-min.png");
-}
-
-.falling-item:nth-of-type(4) {
-  left: 50%;
-  -webkit-animation-delay: 3s, 1.5s;
-  animation-delay: 3s, 1.5s;
-  font-size: 2.1em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/yellow_4-min.png");
-}
-
-.falling-item:nth-of-type(5) {
-  left: 80%;
-  -webkit-animation-delay: 2s, 2s;
-  animation-delay: 2s, 2s;
-  font-size: 2.3em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/pink_5-min.png");
-}
-
-.falling-item:nth-of-type(6) {
-  left: 90%;
-  -webkit-animation-delay: 1s, 0s;
-  animation-delay: 1s, 0s;
-  font-size: 2.2em;
-  background-image: url("https://didongthongminh.vn/templates/default/images/yellow_6-min.png");
-}
 
 .distance {
   border-radius: 10px;
@@ -319,7 +274,6 @@ body.white {
   align-items: center;
   padding: 20px;
   background-color: #d70019;
-  background-image: url("../images/sale/vien-3.png");
   background-size: 400px;
   background-repeat: repeat-x;
 }
@@ -562,7 +516,7 @@ body.white {
   font-weight: 600;
 }
 .footer .footer__color--red {
-  color: #f0c827;
+  color: black;
 }
 .footer__payment {
   display: flex;

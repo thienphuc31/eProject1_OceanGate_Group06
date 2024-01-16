@@ -234,6 +234,9 @@ class Products {
     filterProductsByBrand = (data, brand) => {
         return data.filter(item => item.specifications.brand === brand);
     }
+    filterProductsByType = (data, type) => {
+        return data.filter(item => item.specifications.type === type);
+    }
     addBrandClickEvent = (data) => {
         const brandList = getEle("#brandList");
         brandList.addEventListener("click", (event) => {
@@ -247,6 +250,12 @@ class Products {
     
     renderProductsByBrand = (data, brand, targetElement) => {
         const filteredProducts = this.filterProductsByBrand(data, brand);
+        this.renderProducts(filteredProducts, targetElement);
+        
+    }
+
+    renderProductsByType = (data, type, targetElement) => {
+        const filteredProducts = this.filterProductsByType(data, type);
         this.renderProducts(filteredProducts, targetElement);
         
     }

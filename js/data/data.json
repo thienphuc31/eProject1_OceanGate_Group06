@@ -1297,6 +1297,361 @@
           "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
         }
       ]
+    },
+    {
+      "id": 27,
+      "name": "SSD Kingston NV2 250GB M.2 PCIe NVMe Gen4",
+      "price": 1090000,
+      "description": "Kingston NV2 250GB M.2 PCIe NVMe Gen4 SSD is a high-capacity storage solution, with read/write speeds of up to 3,000/1,300MB/s, 3 - 4 times faster than SATA SSDs and 35 times faster compared to a traditional hard drive. NV2 drives consume less power, generate less heat, and have faster load times. Thanks to its useful performance and single-sided M.2 2280 (22x80mm) design, the NV2 drive becomes an ideal accessory for slim laptops and systems with limited capacity.",
+      "promotion": 9,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-250g-3-lg_134f63eaef554cb0984a5d322dc25cb5_8ef94ccd223940788600ff0acd438e2b_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-250g-3-lg_134f63eaef554cb0984a5d322dc25cb5_8ef94ccd223940788600ff0acd438e2b_grande.png",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-250g-1-lg_0f398d2ac313419a83fcff5cc4709b2d_bb78f8d3c5ba443fba2da56a2021388f_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-250g-2-lg_c770f52fd2784a33844f51904a12b64c_3f520dc6b9dd43339f7b35fb1c5bad92_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Kingston",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "VENGEANCE RGB DDR5",
+        "capacity": "250GB ",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "SSD Kingston NV2 250GB M.2 PCIe NVMe Gen4",
+      "price": 1390000,
+      "description": "Kingston NV2 250GB M.2 PCIe NVMe Gen4 SSD is a high-capacity storage solution, with read/write speeds of up to 3,000/1,300MB/s, 3 - 4 times faster than SATA SSDs and 35 times faster compared to a traditional hard drive. NV2 drives consume less power, generate less heat, and have faster load times. Thanks to its useful performance and single-sided M.2 2280 (22x80mm) design, the NV2 drive becomes an ideal accessory for slim laptops and systems with limited capacity.",
+      "promotion": 7,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/500_2c3dab1f31804c5d865af3a26cebda03_cd349308894542fe97b02876d80270f1_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/500_2c3dab1f31804c5d865af3a26cebda03_cd349308894542fe97b02876d80270f1_grande.png",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-500g-1-lg_b5c63afca37746b4a6f8ca6ab1dc9105_655990e8162544f69e9bd14fafc0dfcd_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-500g-2-lg_02b1163c4df7412cb03a48b5f294e774_f74d346a5b4d4cf0bcb7f6e82ff2ba66_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Kingston",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "M.2 PCIe NVMe Gen4",
+        "capacity": "500GB ",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "SSD Kingston NV2 1TB M.2 PCIe NVMe Gen4",
+      "price": 1990000,
+      "description": "Kingston NV2 1TB M.2 PCIe NVMe Gen4 SSD is a high-capacity storage solution, with read/write speeds of up to 3,000/1,300MB/s, 3 - 4 times faster than SATA SSDs and 35 times faster compared to a traditional hard drive. NV2 drives consume less power, generate less heat, and have faster load times. Thanks to its useful performance and single-sided M.2 2280 (22x80mm) design, the NV2 drive becomes an ideal accessory for slim laptops and systems with limited capacity.",
+      "promotion": 5,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-1000g-3-lg_359789fb8cd44b7d923935579b504c0e_c763526c5f4844d9a0b8c17d50a90460_grande.png",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-1000g-3-lg_359789fb8cd44b7d923935579b504c0e_c763526c5f4844d9a0b8c17d50a90460_grande.png",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-1000g-1-lg_93101a41ba804a4193389af018e41c53_669ad93a8e9f460b9306d9d07be10903_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/ktc-product-ssd-snv2s-1000g-2-lg_f1678eaaac044b6984c7b601ee7d77c7_cf81946a0904493384516a12bc1a8095_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Kingston",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "M.2 PCIe NVMe Gen4",
+        "capacity": "1TB",
+        "reliability": "600 TBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3300MB/s",
+        "writeSpeed": "1200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "36 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "SSD Kingston KC3000 2TB M.2 PCIe gen 4 NVMe (SKC3000D/2048G)",
+      "price": 6990000,
+      "description": "Kingston NV2 1TB M.2 PCIe NVMe Gen4 SSD is a high-capacity storage solution, with read/write speeds of up to 3,000/1,300MB/s, 3 - 4 times faster than SATA SSDs and 35 times faster compared to a traditional hard drive. NV2 drives consume less power, generate less heat, and have faster load times. Thanks to its useful performance and single-sided M.2 2280 (22x80mm) design, the NV2 drive becomes an ideal accessory for slim laptops and systems with limited capacity.",
+      "promotion": 39,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/kc3000-1_f1a79688f39d450faafc844a40c72749_585f3d7bd11e43b5b3634cf0a4914665_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/kc3000-1_f1a79688f39d450faafc844a40c72749_585f3d7bd11e43b5b3634cf0a4914665_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/kc3000-2_6cefd02342db41e7b072154acdfecc94_cba7325f3c4b496987165e61740196d6_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "Kingston",
+        "type": "SSD",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "M.2 PCIe NVMe Gen4",
+        "capacity": "2TB",
+        "reliability": "1,6PBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "7000MB/s",
+        "writeSpeed": "7000MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "RAM PNY XLR8 Silver 1x8GB 3200 RGB",
+      "price": 1190000,
+      "description": "RAM and PC components are indispensable in today's systems. No longer playing a simple role with the ability to handle multi-tasking, RAM is also used to decorate the gaming corner, PNY XLR8 Silver 1x8GB 3200 RGB will confidently be a name that meets the above criteria for you. Let's take a look with GEARVN to see what this RAM kit will bring!",
+      "promotion": 34,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/diie_17188334fea4459fa2e142eabbd07205_976a7e7d5db64c33a2dc488d7e3818c9_a1f3cd59cfea4f6f94a91f74111933b6_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/diie_17188334fea4459fa2e142eabbd07205_976a7e7d5db64c33a2dc488d7e3818c9_a1f3cd59cfea4f6f94a91f74111933b6_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/_3c686ea66ef2444a937c1fd51d008395__1__ae48a53002da4865b402c951dd663848_49e39dbf568a4de282e192b37327a262_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/i3kg_631658da6dbb490c81945b72b1659f4e_5d1b58889ce24cb7b04f53cadd05a18c_78c1aca78f864e809a9a226774af04f8_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/5h9x_9252cbe6c6fc4072aacb2a8d812c9aed_298962ce034f4b6295cc4b5b20c27706_747ecaef60114b8387c516bafeb76f33_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/j8s8_4b6f2afbd33242ff8d0f51105d52e8b4_911c8f9db8e940a1bd991d57b928449b_e201c12c5d9749e981e005519134418e_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "PNY",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "XLR8 Silver 1x8GB 3200 RGB",
+        "capacity": "2TB",
+        "reliability": "1,6PBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "7000MB/s",
+        "writeSpeed": "7000MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Ram PNY XLR8 Silver 1x8GB 3600 RGB",
+      "price": 1290000,
+      "description": "RAM and PC components are indispensable in today's systems. No longer playing a simple role with the ability to handle multi-tasking, RAM is also used to decorate the gaming corner, PNY XLR8 Silver 1x8GB 3200 RGB will confidently be a name that meets the above criteria for you. Let's take a look with GEARVN to see what this RAM kit will bring!",
+      "promotion": 31,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/en_color_list_22d26_wkbgajdiie_17188334fea4459fa2e142eabbd07205_a2d996f4fe714ec4827cf1b9e64ab2c7_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/en_color_list_22d26_wkbgajdiie_17188334fea4459fa2e142eabbd07205_a2d996f4fe714ec4827cf1b9e64ab2c7_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/en_color_list_22d26_evzw42j8s8_4b6f2afbd33242ff8d0f51105d52e8b4_6f7c66022aaa48789ce8c04a2297d25f_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/i3kg_631658da6dbb490c81945b72b1659f4e_5d1b58889ce24cb7b04f53cadd05a18c_78c1aca78f864e809a9a226774af04f8_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/5h9x_9252cbe6c6fc4072aacb2a8d812c9aed_298962ce034f4b6295cc4b5b20c27706_747ecaef60114b8387c516bafeb76f33_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/j8s8_4b6f2afbd33242ff8d0f51105d52e8b4_911c8f9db8e940a1bd991d57b928449b_e201c12c5d9749e981e005519134418e_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "PNY",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "XLR8 Silver 1x8GB 3200 RGB",
+        "capacity": "2TB",
+        "reliability": "1,6PBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "7000MB/s",
+        "writeSpeed": "7000MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "RAM Laptop PNY XLR8 DDR4 8GB 3200 SODIMM",
+      "price": 700000,
+      "description": "RAM and PC components are indispensable in today's systems. No longer playing a simple role with the ability to handle multi-tasking, RAM is also used to decorate the gaming corner, PNY XLR8 Silver 1x8GB 3200 RGB will confidently be a name that meets the above criteria for you. Let's take a look with GEARVN to see what this RAM kit will bring!",
+      "promotion": 5,
+      "imageThumb": "https://product.hstatic.net/200000722513/product/en_color_list_21d28_5zyg9ue3et_828494b50df94299be3058697f5692a4_grande.jpg",
+      "listImage": [
+        "https://product.hstatic.net/200000722513/product/en_color_list_21d28_5zyg9ue3et_828494b50df94299be3058697f5692a4_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/en_color_list_21d28_92wxpsxw2v_6a32e6f5e0d74805bc1d5f551f2655f3_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/en_color_list_21d28_abdbp47pzb_a6f215b17bcc48cca4ff8c5f53db0712_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/en_color_list_21d28_bxutxunwyx_ef69a064546840c5aa2769cb69a0baa0_grande.jpg",
+        "https://product.hstatic.net/200000722513/product/en_color_list_21d28_g3mru4agnh_534a5ffc838f4643b8c469c038b77452_grande.jpg"
+      ],
+      "quantitySold": 20,
+      "highlights": [
+        "Capacity: Offers a range of storage sizes.",
+        "Speed: Enables efficient data access and transfers.",
+        "Portability: Convenient for on-the-go use.",
+        "Reliability: Designed for data integrity and durability."
+      ],
+      "specifications": {
+        "brand": "PNY",
+        "type": "RAM",
+        "length": 3,
+        "width": 0.87,
+        "height": 0.09,
+        "connectionProtocol": "MN8GSD43200XR-RB",
+        "capacity": "2TB",
+        "reliability": "1,6PBW",
+        "designs": "M.2 2280",
+        "readingSpeed": "3200MB/s",
+        "writeSpeed": "3200MB/s",
+        "deliveryTime": {
+          "sameProvince": "3-5 days",
+          "otherProvince": "5-7 days via Viettel Post"
+        },
+        "insurance": {
+          "time": "60 months",
+          "warrantyVoucher": "Reciept"
+        }
+      },
+      "evaluate": [
+        {
+          "id": 1,
+          "name": "Nguyen Xuan Nguyen",
+          "star": 4,
+          "comment": "Tao mua 2 thanh qua da~",
+          "recomment": [{ "id": 1, "name": "admin", "note": "Thank you" }]
+        }
+      ]
     }
   ]
 }

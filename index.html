@@ -35,13 +35,7 @@
                 <a href="./index.html" class="header__logo">
                     <img src="./images/logo/logo.png" alt="logo smart store">
                 </a>
-                <div class="header__location header__bg">
-                    <i class="fa fa-map-marker-alt"></i>
-                    <div class="header__location--select">
-                        <p class="header__distance">See prices at</p>
-                        <p>Choose the address <i class="fa fa-angle-down"></i></p>
-                    </div>
-                </div>
+                
                 <div class="header__search">
                     <i class="fa fa-search"></i>
                     <input type="text" class="header__search--input" placeholder="Search here..." id="search-products">
@@ -59,15 +53,7 @@
                             </a>
                         </div>
                     </li>
-                    <li>
-                        <i class="fa fa-truck"></i>
-                        <div class="header__information--desc">
-                            <a href="./page/check-order.html">
-                                <p class="header__distance">Search</p>
-                                <p>order</p>
-                            </a>
-                        </div>
-                    </li>
+                    
                     <li id="view-cart">
                         <div class="header__shopping">
                             <i class="fa fa-shopping-cart"></i>
@@ -86,6 +72,33 @@
     <main class="container__first">
         <section class="banner distance">
             <div class="banner__menu">
+                <div class="banner__menu--item">
+                    <div class="banner__menu--left">
+                        <i class="banner__menu--icon fa-solid fa-memory"></i>
+                        <a href="./page/products-type.html?type=SSD">SSD</a>
+                    </div>
+                    <div class="banner__menu--right">
+                        <i class="fa fa-angle-right"></i>
+                    </div>
+                </div>
+                <div class="banner__menu--item">
+                    <div class="banner__menu--left">
+                        <i class="banner__menu--icon fa-solid fa-memory"></i>
+                        <a href="./page/products-type.html?type=HDD">HDD</a>
+                    </div>
+                    <div class="banner__menu--right">
+                        <i class="fa fa-angle-right"></i>
+                    </div>
+                </div>
+                <div class="banner__menu--item">
+                    <div class="banner__menu--left">
+                        <i class="banner__menu--icon fa-solid fa-memory"></i>
+                        <a href="./page/products-type.html?type=RAM">RAM</a>
+                    </div>
+                    <div class="banner__menu--right">
+                        <i class="fa fa-angle-right"></i>
+                    </div>
+                </div>
                 <div class="banner__menu--item">
                     <div class="banner__menu--left">
                         <i class="banner__menu--icon fa-solid fa-memory"></i>
@@ -140,33 +153,7 @@
                         <i class="fa fa-angle-right"></i>
                     </div>
                 </div>
-                <div class="banner__menu--item">
-                    <div class="banner__menu--left">
-                        <i class="banner__menu--icon fa-solid fa-memory"></i>
-                        <a href="#">Menu07</a>
-                    </div>
-                    <div class="banner__menu--right">
-                        <i class="fa fa-angle-right"></i>
-                    </div>
-                </div>
-                <div class="banner__menu--item">
-                    <div class="banner__menu--left">
-                        <i class="banner__menu--icon fa-solid fa-memory"></i>
-                        <a href="#">Menu08</a>
-                    </div>
-                    <div class="banner__menu--right">
-                        <i class="fa fa-angle-right"></i>
-                    </div>
-                </div>
-                <div class="banner__menu--item">
-                    <div class="banner__menu--left">
-                        <i class="banner__menu--icon fa-solid fa-memory"></i>
-                        <a href="#">Menu09</a>
-                    </div>
-                    <div class="banner__menu--right">
-                        <i class="fa fa-angle-right"></i>
-                    </div>
-                </div>
+                
             </div>
             <div id="banner-sale" class="banner__carousel carousel slide" data-ride="carousel" data-touch="true">
                 <div class="banner__carousel--content">
@@ -249,7 +236,10 @@
         <section class="preferred">
             <div style="height: 50px;"></div>
             <div class="heading">
-                <h3 class="heading__left">Brands</h3>
+                <h3 class="heading__left">
+                    <a href="./page/products-brand.html">Brands</a>
+                </h3>
+                
                 <div class="heading__brand">
                     <ul id="brandList">
                         <!-- Danh sách brand sẽ được thêm vào đây -->

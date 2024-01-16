@@ -54,7 +54,15 @@
                             </a>
                         </div>
                     </li>
-                    
+                    <li>
+                        <i class="fa fa-truck"></i>
+                        <div class="header__information--desc">
+                            <a href="../page/check-order.html">
+                                <p class="header__distance">Search</p>
+                                <p>order</p>
+                            </a>
+                        </div>
+                    </li>
                     <li id="view-cart">
                         <div class="header__shopping">
                             <i class="fa fa-shopping-cart"></i>
@@ -66,7 +74,10 @@
                         </div>
                     </li>
                 </ul>
-                
+                <!-- <a href="./page/smember.html" class="header__user header__bg">
+                    <i class="fa fa-user-circle"></i>
+                    <p>Smember</p>
+                </a> -->
             </div>
         </div>
     </header>
@@ -339,14 +350,14 @@
     <script src="../js/app.js"></script>
     <script src="../js/search-products.js"></script>
     <script src="../js/shopping-cart.js"></script>
-    <script src="../js/products-brand.js"></script>
+    <script src="../js/products-type.js"></script>
     
     <!-- JavaScript in products-brand.html -->
     <script>
         // Function to get brand value from URL
-        function getBrandFromURL() {
+        function getTypeFromURL() {
             const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get("brand");
+            return urlParams.get("type");
         }
     
         // Function to fetch and display products based on the brand
