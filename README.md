@@ -6,6 +6,7 @@
 + Group No:		: 6
 + List Of Member:
     + Trần Lê Thiên Phúc (Student1344659)
+    
 =======================================
 Documentations : https://github.com/thienphuc31/eProject1_OceanGate_Group06/tree/main/Documentations
 =======================================
