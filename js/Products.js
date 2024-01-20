@@ -8,7 +8,20 @@ class Products {
         return content;
     }
     
+    
     renderProducts = (data, element) => {
+        function generateDetailPageURL(item) {
+            const hostName = location.hostname;
+            let url = ['127.0.0.1', 'localhost'].includes(hostName) ? '' : '/eProject1_OceanGate_Group06';
+            
+            // publish
+            if (url) {
+                return `${url}/page/view_detail.html?id=${item.id}`;
+            } else {
+                // development
+                return `../page/view_detail.html?id=${item.id}`;
+            }
+        }
         if (data.length > 0) {
             const contentHTML = data.reduce((content, item) => {
                 const discount = item.price * ((100 - item.promotion) / 100);
@@ -17,9 +30,9 @@ class Products {
             Discount ${item.promotion}%
             </div>
             <div class="products__img">
-                <a href="../page/view_detail.html?id=${item.id}">
-                    <img src=" ${item.imageThumb}" alt="">
-                </a>
+            <a href="${generateDetailPageURL(item)}">
+            <img src="${item.imageThumb}" alt="">
+        </a>
             </div>
             <h3 class="products__title"><a href="#">${this.overFolow(item.name, 29)}</a></h3>
             <div class="products__price">
